@@ -55,4 +55,4 @@ while(continuar){
 
 
 // muestro una alerta cuando no se agregan mas propiedades con el total de propiedades agregadas al array
-alert ("hemos agregado" + " "+ propiedades.length + " " +"propiedades correctamente")
+alert ("hemos agregado" + " "+ propiedades.length + " " +"propiedades correctamente, revisa la consola para ver las propiedades agregadas")
